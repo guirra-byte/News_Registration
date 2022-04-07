@@ -26,6 +26,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Deletar Notícia
 - [ ] Atualizar Notícia
 - [ ] Filtro de Notícia por Categoria
+- [x] Filtro de Notícia por Título
 - [ ] Cadastro de Usuário
 - [ ] Validação de Usuário
 - [ ] Deletar Usuário
